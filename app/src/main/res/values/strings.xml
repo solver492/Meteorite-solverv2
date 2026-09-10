@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meteorite Solver</string>
+    <string name="accessibility_service_label">Meteorite Solver Agent Service</string>
+    <string name="accessibility_service_description">Enables on-device AI agent to assist with page interactions, form filling, and navigation automation.</string>
+</resources>

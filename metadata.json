@@ -1,0 +1,8 @@
+{
+  "name": "Meteorite Solver",
+  "description": "On-device AI agentic browser and problem solver powered by local LLM inference, page intelligence, and autonomous web automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
